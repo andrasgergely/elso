@@ -17,6 +17,6 @@ turtle.pensize(10)
 turtle.pencolor("green")
 turtle.listen()
 turtle.onkey(rajzol, "h")
-turtle.onkey(turtle.bye, "q")  #
+turtle.onkey(turtle.bye, "q")
 
 turtle.mainloop()
